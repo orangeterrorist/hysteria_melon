@@ -1,0 +1,2 @@
+# Hysteria Melon Loader Mod
+Melon loader mod used in the two week time period when melon loader was enabled KEKW. Source was dumped with DnSpy. Various other versions of the mod I've placed into the `other versions` folder.
